@@ -1,0 +1,216 @@
+body {
+	background: url(grey-bg.gif);
+	font: 80% arial, sans-serif;
+}
+
+#container {
+	background: #FFA2C8;  									
+	width: 1005px; 
+	margin: 0 auto; 
+	text-align: 0 auto;
+	font-family: 'Lucida Grande', Verdana, sans-serif;
+	color: black;
+	border: double;
+	border-width: 10px;
+	border-color: grey;
+}
+
+a {
+	color: #E00775;
+	font-weight: bold;
+}
+
+#topNavigator a, #leftNavigator a {
+	text-decoration: none;
+	color: #555555;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+#topNavigator a:hover, #leftNavigator a:hover {
+	text-decoration: none;
+	color: #E00775;
+}
+
+#topNavigator {
+	width: 990px;
+	text-align: center;
+	margin: 0 auto;
+	padding-top: 2px;
+}
+
+#topNavigator ul {
+	list-style: none;
+}
+
+#topNavigator li:last-child {
+	border: none;
+}
+
+#topNavigator li:first-child {
+	padding-left: 50px;
+}
+
+#topNavigator li {
+	display: inline;
+	padding: 0 86px;
+	border-right: 1px dotted;
+}
+
+#container img {
+	width: 1005px;
+	height: 125px;
+	text-align: left;
+	display: block;
+}
+
+#me img {
+	width: 175.68px;
+	height: 251.28px;
+	display: block;
+	float: right;
+	margin: 1.3em;
+	margin-right:2.2em;
+	border-style: double;
+}
+
+#scheduler img {
+	width: 568px;
+	height: 713px;
+	display: block;
+}
+
+#leftNavigator {
+	text-align: left;
+	width: 180px;
+	float: left;
+	padding: 3em 2.5em;
+}
+
+#leftNavigator ul {
+	padding: 0;
+	list-style: none;
+}
+
+#leftNavigator li {
+	padding-bottom: 20px;
+}
+
+#content {
+	width: 700px;
+	float: left;
+	padding-top: 2.5em;
+	line-height: 1.8em;
+	letter-spacing: 0.01em;
+	display: inline;
+}
+
+#admin_create {
+	width: 700px;
+	float: left;
+	padding-top: 1.0em;
+	padding-left: 2.0em;
+	line-height: 1.8em;
+	letter-spacing: 0.01em;
+	display: inline;
+}
+
+h3 {
+	font-style: italic;
+	margin-bottom: 0;
+}
+
+#form-format  p {
+	line-height: 0;
+	padding-top: 0.8em;
+	padding-bottom: 0;
+}
+
+.dynamic_text p {
+	padding-bottom: 1em;
+	size: 20;
+	color: #E00775;
+	text-align: center;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+#blogA h3 {
+	display: inline;
+}
+
+#blogA p {
+	text-align: right;
+	margin-left: 300px;
+	display: inline;
+	font-style: italic;
+}
+
+#blogB h3 {
+	display: inline;
+}
+
+#blogB p {
+	text-align: right;
+	margin-left: 200px;
+	display: inline;
+	font-style: italic;
+}
+
+#blogC h3 {
+	display: inline;
+}
+
+#blogC p {
+	text-align: right;
+	margin-left: 500px;
+	display: inline;
+	font-style: italic;
+}
+
+p#warning {
+	color: red;
+}
+
+p#main-author {
+	font-size: 120%;
+	font-style: italic;
+	padding-left: 20px;
+	padding-bottom: 15px;
+}
+
+p.quote {
+	font-size: 105%;
+	font-weight: bold;
+	font-style: italic;
+	padding: 0;
+	margin: 0;
+}
+
+p.author {
+	font-size: 100%;
+	font-style: italic;
+	padding: 0;
+	padding-left: 20px;
+	padding-bottom: 20px;
+	margin: 0;
+}
+
+#line {
+	color: black;
+	size: 20;
+}
+
+.clearfix { 
+	clear: both 
+}
+
+/*
+*	NOTES:
+*		- for selectors that have top/bottom/left/right (ex: border-width, border-color, margin) properties may be specified as:
+*			- top/bottom left/right OR
+*			- top right bottom left OR
+*			- all
+*		- for selectors that have width/color/style (ex: border) properties may be specified as:
+*			- ex: 1px red solid 
+*/

@@ -1,0 +1,53 @@
+body {
+	font: 80% arial, sans-serif;
+}
+
+#main { 
+	background: #FFA2C8;  	
+	font-family: 'Lucida Grande', Verdana, sans-serif;
+	color: black;
+	line-height: 1.8em;
+	letter-spacing: 0.01em;
+}
+
+.comment {
+	background: pink;
+	margin: 1em 1em 1em 1em;
+	padding: 0.5em 0.5em 0.5em 1.5em;
+}
+
+#form-format {
+	line-height: 0;
+	padding-top: 2em;
+	padding-bottom: 0;
+	text-align: left;
+}
+
+#blog_posts {
+	padding-top: 0.7em;
+}
+
+.post a{
+	color: #E00775;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.post a:hover {
+	text-decoration: none;
+	color: #555555;
+}
+
+h2 {
+	margin-top: 15px;
+}
+
+h3 {
+	font-style: italic;
+	margin-bottom: 0;
+}
+
+h5 {
+	font-size: 15;
+	margin-bottom: 2em;
+}

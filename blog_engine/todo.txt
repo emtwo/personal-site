@@ -1,0 +1,25 @@
++ Do check for username already exists
++ If all 3 "join" fields are not inputted, give an error, otherwise give a success print
++ do a proper error for unable to login
++ create blog post error
++ ask user for name of the blog they want to create?
++ edit buttons next to each blog
+
+- Test that email works - emailing to user upon successful registration & use marina@marinasamuel.com
++ using a session or cookie?
+- allow comments
+- add twitter to my website?
++ new blog pg
+- search pg
++ delete buttons next to each blog
+- allow for blog title & choosing border, colours, etc.
+- Titles of blogs are clickable & show comments
+- delete/remove account
+- session times out
+- incorrect username or password
+- suggest usernames if some are taken 
+- Show date for edited & date for creation as separate instead of using current date
+- unset session vars in edit and create
+- <Insert blog name here> should be replaced with a var 
+- error checking if input for comment is empty
+- bug in editing then dynamic link

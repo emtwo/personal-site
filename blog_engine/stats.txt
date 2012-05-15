@@ -1,0 +1,16 @@
+localhost is in:
+	create 
+	delete
+	delete_comment
+	dynamic_pg *
+	edit
+	includes (x5) *
+	join
+	login *
+	
+session checks:
+	blogpost_editor
+	create
+	delete
+	delete_comment
+	dynamic_pg

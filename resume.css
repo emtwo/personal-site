@@ -1,0 +1,81 @@
+/*body { 
+	font-family: arial, sans-serif; 
+	padding-bottom: 2em; 
+	width: 50em; 
+	margin: 0 auto;
+}*/ 
+body {
+	background: url(grey-bg.gif);
+	font: 80% arial, sans-serif;
+}
+h1 { 
+	font-size: 18pt; 
+	margin-bottom: 0; 
+}
+h1, h3 { 
+	font-family: Georgia, serif; 
+	letter-spacing: -0.01pt; 
+	text-transform: uppercase; 
+}
+h2 { 
+	font-size: 12pt; 
+}
+h3 { 
+	font-size: 13pt; 
+	margin: 1.5em 0 1ex 1em; 
+	border-bottom: 1px solid; 
+	font-weight: bold; 
+}
+p { 
+	padding: 0 0 0 1em; 
+}
+p, div, h4 { 
+	font-size: 11pt; 
+}
+h4 { 
+	margin: 1em 0 0 1em; 
+}
+ul { 
+	margin-top: 1ex; 
+	margin-bottom: 1ex; 
+}
+#contact {
+	overflow: hidden; 
+} 
+#temp { 
+	width: 28%; 
+	text-align: right; 
+}
+#contact div { 
+	float: left; 
+}
+#contact h2 { 
+	margin-bottom: 0; 
+}
+#contact h3 { 
+	margin-bottom: 0; 
+}
+#content {
+	width: 1005px;
+	padding-left: 2.5em;
+	line-height: 1.8em;
+	letter-spacing: 0.01em;
+	display: inline;
+}
+#container {
+	background: #FFA2C8;  									
+	width: 1005px; 
+	margin: 0 auto; 
+	text-align: 0 auto;
+	font-family: 'Lucida Grande', Verdana, sans-serif;
+	color: black;
+	border: double;
+	border-width: 10px;
+	border-color: grey;
+}
+
+#resume-banner {
+	padding-left: 0;
+	padding-top: 1.5em;
+	padding-bottom: 2em;
+}

@@ -1,0 +1,204 @@
+body {
+	background: url(grey-bg.gif);
+	font: 80% arial, sans-serif;
+}
+
+#container {
+	background: #FFA2C8;  									
+	width: 1005px; 
+	margin: 0 auto; 
+	font-family: 'Lucida Grande', Verdana, sans-serif;
+	color: black;
+	border: double;
+	border-width: 10px;
+	border-color: grey;
+}
+
+#create {
+	padding-top: 2em;
+}
+
+.post a{
+	color: black;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.post a:hover {
+	text-decoration: none;
+	color: #555555;
+}
+
+#home_navigator {
+	padding: 5em 0 5em 0;
+}
+
+#center {
+	text-align: center;
+}
+
+#main {
+	padding-left: 2em;
+	padding-right: 2em;
+	background: #FFA2C8;  	
+	margin: 0 auto; 
+	font-family: 'Lucida Grande', Verdana, sans-serif;
+	color: black;
+}
+
+a {
+	color: #E00775;
+	font-weight: bold;
+}
+
+a:hover {
+	text-decoration: none;
+	color: #555555;
+}
+
+#topNavigator {
+	width: 990px;
+	text-align: center;
+	margin: 0 auto;
+	padding-top: 2px;
+}
+
+#topNavigator ul {
+	list-style: none;
+}
+
+#topNavigator li:last-child {
+	border: none;
+	padding-right: 70px;
+}
+
+#topNavigator li:first-child {
+	padding-left: 0px;
+}
+
+#topNavigator li {
+	display: inline;
+	padding: 0 7em;
+	border-right: 1px dotted;
+}
+
+#topNavigator a, #leftNavigator a {
+	text-decoration: none;
+	color: #E00775;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+#topNavigator a:hover, #leftNavigator a:hover {
+	text-decoration: none;
+	color: #555555;
+}
+
+#home_navigator {
+	width: 990px;
+	margin: 0 auto;
+	padding: 1em 0 1em 0;
+	text-align: center;
+	font-size: 20;
+}
+
+#home_navigator ul {
+	list-style: none;
+}
+
+#home_navigator li:last-child {
+	border: none;
+}
+
+#home_navigator li:first-child {
+	padding-left: 50px;
+}
+
+#home_navigator li {
+	display: inline;
+	padding: 0 86px;
+	border-right: 1px dotted;
+}
+
+#container img {
+	width: 1005px;
+	height: 125px;
+	text-align: left;
+	display: block;
+}
+
+#scheduler img {
+	width: 568px;
+	height: 713px;
+	display: block;
+}
+
+#leftNavigator {
+	text-align: left;
+	width: 180px;
+	float: left;
+	padding: 3em 2.5em;
+}
+
+#leftNavigator ul {
+	padding: 0;
+	list-style: none;
+}
+
+#leftNavigator li {
+	padding-bottom: 20px;
+}
+
+#content {
+	width: 700px;
+	float: left;
+	padding-top: 2.5em;
+	line-height: 1.8em;
+	letter-spacing: 0.01em;
+	display: inline;
+}
+
+h3 {
+	font-style: italic;
+	margin-bottom: 0;
+}
+
+#form-format {
+	line-height: 0;
+	padding-top: 1.2em;
+	padding-bottom: 0;
+	padding-right: 30em;
+	text-align: right;
+}
+
+.dynamic_text p {
+	padding-bottom: 1em;
+	size: 20;
+	color: #E00775;
+	text-align: center;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+p#warning {
+	color: red;
+}
+
+#line {
+	color: black;
+	size: 20;
+}
+
+.clearfix { 
+	clear: both 
+}
+
+/*
+*	NOTES:
+*		- for selectors that have top/bottom/left/right (ex: border-width, border-color, margin) properties may be specified as:
+*			- top/bottom left/right OR
+*			- top right bottom left OR
+*			- all
+*		- for selectors that have width/color/style (ex: border) properties may be specified as:
+*			- ex: 1px red solid 
+*/
