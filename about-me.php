@@ -21,7 +21,7 @@
 				
 				<p>
 					I was born in Cairo, Egypt and grew up in the busy city of Toronto, Canada.  I am currently a <a href="http://www.softeng.uwaterloo.ca/">Software 
-Engineering</a> student in third year
+Engineering</a> student in fourth year
 					at the <a href="http://uwaterloo.ca/">University of Waterloo</a> in Waterloo, Canada.    
 				</p>
 				
