@@ -4,6 +4,7 @@
 	<head>
 		<title>About Me | Marina Samuel</title>
 		<link rel="stylesheet" type="text/css" href="web.css" />
+		<script type="text/javascript" src="analytics.js"></script>
 	</head>
 
 	<body>

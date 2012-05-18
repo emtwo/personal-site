@@ -6,6 +6,7 @@
 		<link rel="stylesheet" type="text/css" href="web.css" />
 		<script type="text/javascript" src="js/jquery.js"></script>
 		<script type="text/javascript" src="js/iframe.js"></script>
+		<script type="text/javascript" src="analytics.js"></script>
 	</head>
 	
 	<body>
