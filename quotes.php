@@ -19,7 +19,10 @@
 				<p id="main-author">- John Bartlett</p>
 				
 				<hr id="line">
-				
+
+				<p class="quote">A true sign of intelligence is not knowledge, but imagination.</p>
+				<p class="author">- Albert Einstein</p>
+
 				<p class="quote">Brick walls are there for people who don't want it badly enough.</p>
 				<p class="author">- Randy Pausch</p>
 				
